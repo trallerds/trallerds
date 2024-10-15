@@ -1,16 +1,29 @@
-# 👋 Hi, I’m @trallerds
-- 😁 i'am 28 years old
-- 👩‍🎓 Graduated Analysis and Systems Development at the Federal Institute of Paraná - IFPR
-- 📚 Cloud Computing Projects(attending)
-- 📚 MBA in Big Data and Competitive Intelligence (attending)
-- I have a old Github Account [Trallerd](https://github.com/trallerd)
+# 👋 Hi there, I'm @trallerds!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeszgoncalves/)  
+## About Me
+- 🌟 28 years old
+- 🎓 Graduated in **Analysis and Systems Development** from the **Federal Institute of Paraná (IFPR)**
+- ☁️ Currently diving into **Cloud Computing Projects**
+- 📊 Pursuing an **MBA in Big Data and Competitive Intelligence**
+
+## My Interests
+I'm passionate about leveraging technology to solve real-world problems, particularly in the fields of mobile development, cloud computing and data analytics. I enjoy collaborating on open-source projects and continuously expanding my skill set.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jeszgoncalves/)
+- [My Old GitHub](https://github.com/trallerd)
+
+## Open Source Contributions
+I'm a supporter of the open-source community. Feel free to check out my contributions and projects!
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## Skills
+- Systems Development
+- Cloud Computing
+- Big Data Analytics
+- Competitive Intelligence
 
+---
 
-<!---
-trallerds/trallerds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my GitHub profile! Feel free to reach out or collaborate on any interesting projects.
